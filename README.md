@@ -124,7 +124,7 @@
     </div>
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2023 - WebSite - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            &copy; 2023 - ELF Software
         </div>
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
