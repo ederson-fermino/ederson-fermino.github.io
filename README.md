@@ -41,10 +41,6 @@
                                 <p>Na ELF, não apenas resolvemos problemas; criamos oportunidades. Com uma equipe talentosa de especialistas em .NET e SAP B1, estamos comprometidos em ajudar nossos clientes a alcançar seus objetivos de forma eficaz e eficiente.</p>
                                 <p>Estamos prontos para ser sua parceira em cada passo da sua jornada tecnológica. Seja qual for o desafio, estamos preparados para enfrentá-lo juntos.</p>
                             </div>
-                            <div class="col-lg-6">
-                                <!-- Adicione uma imagem da equipe ou do escritório aqui -->
-                                @* <img src="team.jpg" alt="Equipe da ELF Software Solutions" class="img-fluid"> *@
-                            </div>
                         </div>
                     </div>
                 </section>
