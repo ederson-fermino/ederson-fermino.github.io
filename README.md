@@ -12,7 +12,7 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-white border-bottom box-shadow mb-3">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-page="/Index">ELF Software Solutions</a>
             </div>
@@ -87,23 +87,6 @@
                                 <p><i class="fas fa-phone"></i> +55 47 992-850-406</p>
                                 <p><i class="fas fa-envelope"></i> <a href="mailto:eder.l.fermino@gmail.com">eder.l.fermino@gmail.com</a></p>
                                 <p><i class="fas fa-envelope"></i> <a href="mailto:elfsolutionsme@gmail.com">elfsolutionsme@gmail.com</a></p>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="contact-form">
-                                    <h3>Envie-nos uma Mensagem</h3>
-                                    <form action="#" method="post">
-                                        <div class="form-group">
-                                            <input type="text" class="form-control" placeholder="Seu Nome" required>
-                                        </div>
-                                        <div class="form-group">
-                                            <input type="email" class="form-control" placeholder="Seu Email" required>
-                                        </div>
-                                        <div class="form-group">
-                                            <textarea class="form-control" rows="5" placeholder="Sua Mensagem" required></textarea>
-                                        </div>
-                                        <button type="submit" class="btn btn-primary">Enviar</button>
-                                    </form>
-                                </div>
                             </div>
                         </div>
                     </div>
