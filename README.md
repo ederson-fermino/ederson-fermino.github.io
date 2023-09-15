@@ -1,16 +1,11 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ELF Software Solutions</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-utilities/dist/css/bootstrap-utilities.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/all.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/brands.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/fontawesome.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/regular.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/solid.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-utilities/bootstrap-utilities.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
 </head>
 <body>
     <header>
@@ -134,10 +129,5 @@
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/font-awesome/js/all.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/font-awesome/js/brands.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/font-awesome/js/fontawesome.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/font-awesome/js/regular.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/font-awesome/js/solid.min.js"></script>
 </body>
 </html>
