@@ -34,7 +34,7 @@
                 <section class="about" id="about">
                     <div class="container mt-5">
                         <div class="row">
-                            <div class="col-lg-6">
+                            <div class="col-lg-12">
                                 <h2>Sobre Nós</h2>
                                 <p>Somos a ELF Software Solutions, uma equipe apaixonada por tecnologia e inovação. Fundada em 20XX, nossa jornada começou com a visão de simplificar a complexidade da tecnologia para nossos clientes.</p>
                                 <p>Ao longo dos anos, alcançamos muitos marcos impressionantes. Desde a criação de soluções de software personalizadas que transformam negócios até a construção de integrações SAP de alta eficiência, nossa dedicação à excelência tem sido nossa força motriz.</p>
