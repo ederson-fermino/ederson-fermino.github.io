@@ -1,4 +1,4 @@
-<html lang="en" bg-dark>
+<html lang="en" class="bg-dark">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/regular.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/solid.min.css">
 </head>
-<body>
+<body class="bg-dark">
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
             <div class="container">
@@ -31,7 +31,7 @@
                     </div>
                 </section>
                 <!-- Seção "Sobre Nós" -->
-                <section class="about" id="about">
+                <section class="about  bg-light" id="about">
                     <div class="container mt-5">
                         <div class="row">
                             <div class="col-lg-12">
