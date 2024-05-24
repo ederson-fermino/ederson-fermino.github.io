@@ -13,64 +13,48 @@
         /* Dark Theme Styles */
         body {
             background-color: #262626; /* Dark gray background */
-            color: #000000; /* White text */
+            color: #000000;
         }
-
-        /* Change the primary color to a neutral one */
-        .navbar {
-            background-color: #333333; /* Slightly darker gray navbar */
-        }
-
         .navbar-dark .navbar-toggler-icon {
             background-color: #ffffff; /* White toggler icon */
         }
-
         .hero {
             background-color: #444444; /* Darker gray hero background */
         }
-
             .hero h1, .hero p, .hero a {
                 color: #000000; /* White text in hero section */
             }
-
         .about, .services, .contact {
             background-color: #333333; /* Slightly darker gray section background */
             padding: 20px;
             border-radius: 5px;
         }
-
         .service-box {
             background-color: #444444; /* Darker gray service box background */
             padding: 20px;
             border-radius: 5px;
         }
-
         /* Text color in the white background sections */
         .about h2, .about p, .services h2, .services p, .contact h2, .contact p {
             color: #333333; /* Dark gray text on white background */
         }
-
         /* Improve text contrast on white background in service boxes */
         .service-box h3, .service-box p {
             color: #ffffff; /* White text in service boxes */
         }
-
         .contact-info {
             background-color: #444444; /* Darker gray contact info background */
             padding: 20px;
             border-radius: 5px;
         }
-
             /* Improve text contrast on white background in contact info */
             .contact-info p, .contact-info a {
                 color: #000000; /* White text in contact info */
             }
-
         .footer {
             background-color: #333333; /* Slightly darker gray footer background */
             padding: 20px 0;
         }
-
             .footer p {
                 color: #ffffff; /* White text in footer */
             }
