@@ -1,5 +1,6 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 # Site settings
 title: Awesome Title
@@ -18,28 +19,6 @@ people:
     - title: facebook
       url: #
     - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
